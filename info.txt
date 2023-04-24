@@ -1,1 +1,6 @@
-{"name": "Luis"}
+{
+"id": 1,
+"name": "Luis",
+"age":20,
+"gender": "male"
+}
