@@ -1,14 +1,7 @@
-[
 {
 "id": 1,
 "name": "Luis",
 "age": 20,
 "gender": "male"
-},
-{
-"id": 2,
-"name": "Selena",
-"age": 21,
-"gender": "female"
 }
-]
+
